@@ -1,6 +1,4 @@
-package Bai2_LoopInJava;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package Baif3_ArrayAndMethod;
 
 import java.util.Scanner;
 
