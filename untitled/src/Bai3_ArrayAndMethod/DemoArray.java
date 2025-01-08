@@ -1,4 +1,4 @@
-package Baif3_ArrayAndMethod;
+package Bai3_ArrayAndMethod;
 
 import java.util.Scanner;
 
