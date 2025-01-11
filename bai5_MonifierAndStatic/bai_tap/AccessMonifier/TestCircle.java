@@ -1,7 +1,5 @@
 package bai_tap.AccessMonifier;
 
-import bai_tap.Circle;
-
 public class TestCircle {
     public static void main(String[] args) {
         Circle c1 = new Circle();
