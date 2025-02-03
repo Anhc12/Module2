@@ -21,6 +21,14 @@ public class SumOfColum {
             }
         }
 
+        System.out.println("Mảng 2 chiều vừa nhập:");
+        for (double[] row : matrix) {
+            for (double value : row) {
+                System.out.print(value + " ");
+            }
+            System.out.println();
+        }
+
 
         System.out.println("Nhập thứ tự cột cần tính tổng (bắt đầu từ 0): ");
         int columnIndex = sc.nextInt();
